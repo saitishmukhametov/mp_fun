@@ -1,2 +1,5 @@
 # mp_fun
-gaze controlled keyboard
+vision controlled keyboard
+ 
+# TODO:
+## Translation matrix recovery for head movements
